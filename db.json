@@ -1,39 +1,39 @@
 {
   "searchSettings": [
-   {  
+   {
       "label":"Projects and Properties",
-      "data":[  
-         {  
+      "data":[
+         {
             "label":"Brand",
             "value":"brand",
             "checked":true
          },
-         {  
+         {
             "label":"Continent",
             "value":"continent",
             "checked":true
          },
-         {  
+         {
             "label":"State/Province",
             "value":"stateprovince",
             "checked":true
          },
-         {  
+         {
             "label":"Ownership Type",
             "value":"ownershiptype",
             "checked":true
          },
-         {  
+         {
             "label":"Generation",
             "value":"generation",
             "checked":true
          },
-         {  
+         {
             "label":"Project Type",
             "value":"projecttype",
             "checked":true
          },
-         {  
+         {
             "label":"Renovation Type",
             "value":"renovationtype",
             "checked":true
@@ -41,45 +41,45 @@
       ],
       "enabled":true
    },
-   {  
+   {
       "label":"Projects Files",
-      "data":[  
-         {  
+      "data":[
+         {
             "label":"Created",
             "value":"created",
             "checked":true
          },
-         {  
+         {
             "label":"Creator",
             "value":"creator",
             "checked":true
          },
-         {  
+         {
             "label":"File Type",
             "value":"filetype",
             "checked":true
          },
-         {  
+         {
             "label":"Folder",
             "value":"folder",
             "checked":true
          },
-         {  
+         {
             "label":"Modified",
             "value":"modified",
             "checked":true
          },
-         {  
+         {
             "label":"Modifier",
             "value":"modifier",
             "checked":true
          },
-         {  
+         {
             "label":"Size",
             "value":"size",
             "checked":true
          },
-         {  
+         {
             "label":"Project",
             "value":"project",
             "checked":true
@@ -87,25 +87,25 @@
       ],
       "enabled":true
    },
-   {  
+   {
       "label":"Design Guidelines",
-      "data":[  
-         {  
+      "data":[
+         {
             "label":"Brand",
             "value":"brand",
             "checked":true
          },
-         {  
+         {
             "label":"Continent",
             "value":"continent",
             "checked":true
          },
-         {  
+         {
             "label":"Version",
             "value":"version",
             "checked":true
          },
-         {  
+         {
             "label":"Created",
             "value":"created",
             "checked":true
@@ -113,25 +113,25 @@
       ],
       "enabled":true
    },
-   {  
+   {
       "label":"Announcements",
-      "data":[  
-         {  
+      "data":[
+         {
             "label":"Brand",
             "value":"brand",
             "checked":true
          },
-         {  
+         {
             "label":"Continent",
             "value":"continent",
             "checked":true
          },
-         {  
+         {
             "label":"Project Type",
             "value":"projecttype",
             "checked":true
          },
-         {  
+         {
             "label":"Document type",
             "value":"documenttype",
             "checked":true
@@ -139,5 +139,134 @@
       ],
       "enabled":true
    }
-  ]
+  ],
+  "searchPage": {
+    "filters": [
+      {
+        "label": "Result Type",
+        "data": [
+          { "label": "All Categories", "value": "everywhere" },
+          { "label": "Project & Properties", "value": "projectandproperties" },
+          { "label": "Project Files", "value": "projectfiles"},
+          { "label": "Announcements", "value": "announcements"},
+          { "label": "Design Guidelines", "value": "designguidelines"}
+        ]
+      },
+      {
+        "label": "Brand",
+        "data": [
+          { "label": "Aloft", "value": "aloft" },
+          { "label": "Courtyard", "value": "courtyard" },
+          { "label": "Fairfield", "value": "fairfield"},
+          { "label": "Marriott Hotels", "value": "marriotthotels"},
+          { "label": "Moxy Hotels", "value": "moxyhotels"},
+          { "label": "Residence Inn", "value": "residenceinn"},
+          { "label": "Marriott", "value": "marriott"},
+          { "label": "Sheraton", "value": "sheraton"},
+          { "label": "Tribute", "value": "tribute"}
+        ]
+      },
+      {
+        "label": "Spaces & Disciplines",
+        "data": [
+          { "label": "Option", "value": "1" },
+          { "label": "Option", "value": "2" },
+          { "label": "Option", "value": "3" },
+          { "label": "Option", "value": "4" }
+        ],
+        "open": false,
+        "appliesTo": "Design Guidelines"
+      },
+      {
+        "label": "Created",
+        "data": [
+          {"label": "From date", "value": ""},
+          {"label": "To date", "value": ""}
+        ],
+        "open": false
+      }
+    ],
+    "sort": {
+      "label": "Sort by",
+      "data": [
+        { "label": "Relevance", "value": "relevance"},
+        { "label": "Date", "value": "date"}
+      ],
+      "selected": "relevance"
+    },
+    "grouping": {
+      "label": "Grouping",
+      "data": [
+        { "label": "Do not group", "value": "donotgroup"},
+        { "label": "By Result Type", "value": "byresulttype"}
+      ],
+      "selected": "donotgroup"
+    },
+    "results": [
+       {
+          "category": "Project & Properties",
+          "title": "Fairfield Inn & Suites Aberdeen",
+          "brad": "Rrand",
+          "region": "Region",
+          "city": "City",
+          "state": "State",
+          "projectType": "Project Type",
+          "marsha": "Marsha",
+          "ownerGroup": "Owner Group",
+          "file": "",
+          "version": "",
+          "modified": "",
+          "path": ""
+       },
+       {
+          "category": "Design Guidelines",
+          "title": "Fairfield Inn & Suites Aberdeen",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Aberdeen incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+          "brad": "Rrand",
+          "region": "Region",
+          "city": "City",
+          "state": "State",
+          "projectType": "Project Type",
+          "marsha": "Marsha",
+          "ownerGroup": "Owner Group",
+          "file": "",
+          "version": "",
+          "modified": "Modified on 12/31/2018",
+          "path": "path/when/it/is/a/aberdeen_design.pptx"
+       },
+       {
+          "category": "Project Files",
+          "title": "Aberdeen design planning",
+          "description": "in FOLFER_NAME",
+          "brad": "",
+          "region": "",
+          "city": "",
+          "state": "",
+          "projectType": "",
+          "marsha": "",
+          "ownerGroup": "",
+          "file": "",
+          "version": "",
+          "modified": "Modified on 12/31/2018",
+          "path": "path/to/this/file"
+       },
+       {
+          "category": "Announcements",
+          "title": "Aberdeen suites launch",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Aberdeen incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+          "brad": "Brand",
+          "region": "Region",
+          "city": "",
+          "state": "",
+          "projectType": "",
+          "marsha": "",
+          "ownerGroup": "",
+          "file": "File",
+          "version": "Version",
+          "modified": "Modified on 12/31/2018",
+          "path": "path/to/this/file"
+       }
+    ],
+    "totalItems": 5
+  }
 }
