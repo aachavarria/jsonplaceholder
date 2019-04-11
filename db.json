@@ -155,6 +155,7 @@
           { "label": "Sheraton", "value": "sheraton"},
           { "label": "Tribute", "value": "tribute"}
         ]
+        "type": "checkbox"
       },
       {
         "label": "Spaces & Disciplines",
@@ -164,6 +165,7 @@
           { "label": "Option", "value": "3" },
           { "label": "Option", "value": "4" }
         ],
+        "type": "checkbox",
         "open": false,
         "appliesTo": "Design Guidelines"
       },
@@ -173,6 +175,7 @@
           {"label": "From date", "value": ""},
           {"label": "To date", "value": ""}
         ],
+        "type": "date",
         "open": false
       }
     ],
