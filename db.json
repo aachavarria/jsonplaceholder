@@ -158,6 +158,19 @@
         "type": "checkbox"
       },
       {
+        "label": "Radio Test",
+        "data": [
+          { "label": "Option", "value": "1" },
+          { "label": "Option", "value": "2" },
+          { "label": "Option", "value": "3" },
+          { "label": "Option", "value": "4" }
+        ],
+        "type": "radio",
+        "open": true,
+        "selected": 3,
+        "defaultSelected": 1,
+        "appliesTo": "Design Guidelines"
+      },      {
         "label": "Spaces & Disciplines",
         "data": [
           { "label": "Option", "value": "1" },
