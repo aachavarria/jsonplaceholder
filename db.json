@@ -269,11 +269,11 @@
     ],
     "totalItems": 5,
     "categoriesMap": {
-			"everywhere": "All Categories",
-			"projectandproperties": "Project & Properties",
-			"projectfiles": "Project Files",
-			"announcements": "Announcements",
-			"designguidelines": "Design Guidelines"
-		};
+	"everywhere": "All Categories",
+	"projectandproperties": "Project & Properties",
+	"projectfiles": "Project Files",
+	"announcements": "Announcements",
+	"designguidelines": "Design Guidelines"
+     }
   }
 }
