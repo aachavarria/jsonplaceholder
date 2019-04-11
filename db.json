@@ -154,7 +154,7 @@
           { "label": "Marriott", "value": "marriott"},
           { "label": "Sheraton", "value": "sheraton"},
           { "label": "Tribute", "value": "tribute"}
-        ]
+        ],
         "type": "checkbox"
       },
       {
