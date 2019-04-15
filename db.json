@@ -222,7 +222,24 @@
           "file": "",
           "version": "",
           "modified": "",
-          "path": ""
+          "path": "",
+          "priority": 1
+       },
+             {
+          "category": "Project & Properties",
+          "title": "Suites Aberdeen",
+          "brad": "Rrand",
+          "region": "Region",
+          "city": "City",
+          "state": "State",
+          "projectType": "Project Type",
+          "marsha": "Marsha",
+          "ownerGroup": "Owner Group",
+          "file": "",
+          "version": "",
+          "modified": "",
+          "path": "",
+          "priority": 1
        },
        {
           "category": "Design Guidelines",
@@ -238,7 +255,8 @@
           "file": "",
           "version": "",
           "modified": "Modified on 12/31/2018",
-          "path": "path/when/it/is/a/aberdeen_design.pptx"
+          "path": "path/when/it/is/a/aberdeen_design.pptx",
+          "priority": 2
        },
        {
           "category": "Project Files",
@@ -254,7 +272,9 @@
           "file": "",
           "version": "",
           "modified": "Modified on 12/31/2018",
-          "path": "path/to/this/file"
+          "path": "path/to/this/file",
+          "priority": 3
+         
        },
        {
           "category": "Announcements",
@@ -270,7 +290,8 @@
           "file": "File",
           "version": "Version",
           "modified": "Modified on 12/31/2018",
-          "path": "path/to/this/file"
+          "path": "path/to/this/file",
+          "priority": 4
        }
     ],
     "totalItems": 5,
