@@ -305,5 +305,41 @@
           { "label": "Design Guidelines", "value": "designguidelines"}
         ]
      }
-  }
+  },
+  "nextPage": [
+    {
+       "category": "Announcements",
+       "title": "Aberdeen suites New",
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Aberdeen incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+       "brad": "Brand",
+       "region": "Region",
+       "city": "",
+       "state": "",
+       "projectType": "",
+       "marsha": "",
+       "ownerGroup": "",
+       "file": "File",
+       "version": "Version",
+       "modified": "Modified on 12/31/2018",
+       "path": "path/to/this/file",
+       "priority": 4
+    },
+    {
+       "category": "Announcements",
+       "title": "Aberdeen suites Next Update",
+       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Aberdeen incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+       "brad": "Brand",
+       "region": "Region",
+       "city": "",
+       "state": "",
+       "projectType": "",
+       "marsha": "",
+       "ownerGroup": "",
+       "file": "File",
+       "version": "Version",
+       "modified": "Modified on 12/31/2018",
+       "path": "path/to/this/file",
+       "priority": 4
+    }
+  ]
 }
