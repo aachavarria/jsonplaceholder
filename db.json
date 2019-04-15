@@ -294,7 +294,9 @@
           "priority": 4
        }
     ],
-    "totalItems": 5,
+    "totalItems": 7,
+    "currentPage": 1,
+    "itemsPerPage" : 5,
     "facets": {
         "label": "Result Type",
         "data": [
