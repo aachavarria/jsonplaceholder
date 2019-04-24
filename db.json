@@ -302,7 +302,7 @@
         "data": [
           { "label": "All Categories", "value": "everywhere" },
           { "label": "Project & Properties", "value": "projectandproperties" },
-          { "label": "Project Files", "value": "projectfiles", "disable": true},
+          { "label": "Project Files", "value": "projectfiles", "disabled": true},
           { "label": "Announcements", "value": "announcements"},
           { "label": "Design Guidelines", "value": "designguidelines"}
         ]
