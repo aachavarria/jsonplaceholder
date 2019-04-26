@@ -190,6 +190,13 @@
         ],
         "type": "date",
         "open": false
+      },
+      {
+        "label": "Modifier",
+        "data": [
+          {"label": "Filter by Modifier", "value": ""}
+        ],
+        "type": "text"
       }
     ],
     "sort": {
