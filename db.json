@@ -231,7 +231,7 @@
           "modified": "",
           "path": "",
           "priority": 1,
-          "url": 'https://www.google.com/'
+          "url": "https://www.google.com/"
        },
              {
           "category": "Project & Properties",
@@ -248,7 +248,7 @@
           "modified": "",
           "path": "",
           "priority": 1,
-          "url": 'https://www.google.com/'
+          "url": "https://www.google.com/"
        },
        {
           "category": "Design Guidelines",
@@ -266,7 +266,7 @@
           "modified": "Modified on 12/31/2018",
           "path": "path/when/it/is/a/aberdeen_design.pptx",
           "priority": 2,
-          "url": 'https://www.google.com/'
+          "url": "https://www.google.com/"
        },
        {
           "category": "Project Files",
@@ -284,7 +284,7 @@
           "modified": "Modified on 12/31/2018",
           "path": "path/to/this/file",
           "priority": 3,
-          "url": 'https://www.google.com/'
+          "url": "https://www.google.com/"
          
        },
        {
@@ -303,7 +303,7 @@
           "modified": "Modified on 12/31/2018",
           "path": "path/to/this/file",
           "priority": 4,
-          "url": 'https://www.google.com/'
+          "url": "https://www.google.com/"
        }
     ],
     "totalItems": 7,
